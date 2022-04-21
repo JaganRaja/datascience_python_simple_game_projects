@@ -1,7 +1,5 @@
 # simple_game_projects
 
-simple_game_projects
-
 ### Madlib
 
 ### Guess Number
